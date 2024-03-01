@@ -1,4 +1,4 @@
-# README - Port Scanner em Python
+# Port Scanner em Python
 
 ## Introdução
 
